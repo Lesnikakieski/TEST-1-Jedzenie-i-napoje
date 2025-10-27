@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<napoje>
+    <napoj>
+        <nazwa>coca-cola</nazwa>
+        <cena>10zl</cena>
+        <rozmiar>2l</rozmiar>
+        <cukier>230g</cukier>
+    </napoj>
+    <napoj>
+        <nazwa>woda</nazwa>
+        <cena>2zl</cena>
+        <rozmiar>1l</rozmiar>
+        <cukier>0g</cukier>
+    </napoj>
+    <napoj>
+        <nazwa>sok pomaranczowy</nazwa>
+        <cena>8zl</cena>
+        <rozmiar>1l</rozmiar>
+        <cukier>20g</cukier>
+    </napoj>
+    <napoj>
+        <nazwa>sprite</nazwa>
+        <cena>9zl</cena>
+        <rozmiar>2l</rozmiar>
+        <cukier>160g</cukier>
+    </napoj>
+    <napoj>
+        <nazwa>tymbark</nazwa>
+        <cena>6zl</cena>
+        <rozmiar>1l</rozmiar>
+        <cukier>60g</cukier>
+    </napoj>
+    <napoj>
+        <nazwa>wojanek</nazwa>
+        <cena>10zl</cena>
+        <rozmiar>1l</rozmiar>
+        <cukier>140g</cukier>
+    </napoj>
+</napoje>
