@@ -1,0 +1,12 @@
+[
+    {
+        "rodzaj": "napój",
+        "marka": "Pepsi",
+        "typ": "Cola",
+        "rozmiar w l": 0.5,
+        "zawartość cukru w gramach": 30,
+        "czy zdrowe": false,
+        "czy smaczne": true,
+        "Czy posiada wartości odżywcze": null
+    }
+]
