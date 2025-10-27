@@ -1,0 +1,21 @@
+[
+    {
+        "rodzaj": "napój",
+        "marka": "Pepsi",
+        "cena za litr": 10.50,
+        "składniki": [
+            "woda",
+            "cukier",
+            "barwnik"
+        ],
+        "gramatury na 100ml":{
+            "cukier": 30,
+            "tłuszcze": 0,
+            "sole":0
+
+        },
+        "czy zdrowe": false,
+        "czy smaczne": true,
+        "Czy posiada wartości odżywcze": null
+    }
+]
