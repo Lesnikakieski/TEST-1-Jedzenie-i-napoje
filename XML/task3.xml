@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Foods>
+
+    <Food>
+        <Name>Kotlet</Name>
+        <Size>Medium</Size>
+    </Food>
+
+    <Food>
+        <Name>Rosół</Name>
+        <Size>Medium</Size>
+    </Food>
+
+     <Food>
+        <Name>Kumkwat</Name>
+        <Size>small</Size>
+    </Food>
+
+     <Food>
+        <Name>Herbata</Name>
+        <Size>small</Size>
+    </Food>
+
+</Foods>
