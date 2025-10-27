@@ -15,11 +15,15 @@
 
 # DANE
 
+### W tabeli przedstawiono kilka typów jedzenia.
+### Przedstawia ona jedynie kilka z niezliczonej ilości istniejących potraw.
+
 |posiłek|ilość kalorii|cena(zl)|typ|
 |--|--|--|--|
 |hamburger|300|8|fast-food|
 |sałatka grecka|190|7|przekąska|
 |Pizza|970|28|obiad|
+
 
 
 # OBRAZY
