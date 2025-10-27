@@ -1,0 +1,73 @@
+[
+    {
+        "rodzaj": "danie obiadowe",
+        "nazwa": "cheeseburger",
+        "cena": 20,
+        "zdrowe": false,
+        "składniki": [
+            "bułka",
+            "kotlet",
+            "ser",
+            "sos"]
+        
+    }
+    ,
+    {
+        "rodzaj":"napój",
+        "nazwa":"ice tea",
+        "cena w zł": 10,
+        "zdrowe": false,
+        "wartości": {
+            "rozmiar w l":0.5,
+            "cukier w g": 80
+
+        }
+    
+    
+    }
+    ,
+    {
+        "rodzaj": "deser",
+        "nazwa": "deser lodowy waniliowy",
+        "cena": 15,
+        "zdrowe": false,
+        "składniki":{
+            "rodzaj loda":"waniliowy",
+            "sos": "czekoladowy",
+            "owoce": "truskawki"
+        }
+    }
+    ,
+    {
+        "rodzaj": "danie obiadowe",
+        "nazwa": "ratatouille",
+        "cena": 30,
+        "zdrowe": true,
+        "wegetariańsie": true
+    }
+    ,
+    { 
+        "rodzaj": "danie obiadowe",
+        "nazwa": "fish and chips",
+        "cena": 35,
+        "zdrowe": false,
+        "w zestawiem z napojem zniżka": true
+
+    }
+    ,
+    {
+        "rodzaj": "deser",
+        "nazwa": "sernik",
+        "cena": 18,
+        "zdrowe": false,
+        "z rodzynkami": false
+    }
+
+
+
+
+
+
+
+
+]
